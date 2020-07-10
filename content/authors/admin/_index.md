@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guillaume Carbajal
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universität Hamburg <br> Signal Processing Team </br>
+  url: "https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am postdoctoral researcher at [Universität Hamburg](https://www.uni-hamburg.de/). I am part of the [Signal Processing Team](https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html) supervised by [Pr. Dr.-Ing. Timo Gerkmann](https://www.inf.uni-hamburg.de/en/inst/ab/sp/people/gerkmann.html). My research interests include speech enhancement, audio-visual signal processing and machine learning. <br> I received a Ph.D. in Computer Science from INRIA and the Université de Lorraine (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise. </br>
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Speech enhancement
+- Audio source separation
+- Audio-visual signal processing
+- Machine learning
+- Deep neural networks
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Science
+    institution: INRIA (Nancy, France)
+    year: 2020
+  - course: M.Eng. in Computer Science and Engineering
+    institution: Ecole Nationale des Ponts et Chaussées <br>(Paris, France)</br>
+    year: 2017
+  - course: M.Sc. in Machine Learning
+    institution: Université Paris-Saclay (Paris, France)
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:guillaume.carbajal@uni-hamburg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GuiCarbajal
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/GuillaumeCarbajal
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am postdoctoral researcher at [Universität Hamburg](https://www.uni-hamburg.de/). I am part of the [Signal Processing Team](https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html) supervised by [Pr. Dr.-Ing. Timo Gerkmann](https://www.inf.uni-hamburg.de/en/inst/ab/sp/people/gerkmann.html). My research interests include speech enhancement, audio-visual signal processing and machine learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received a Ph.D. in Computer Science from INRIA and the Université de Lorraine (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise.
