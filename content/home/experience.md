@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Researcher"
+  company = "Universität Hamburg <br> Signal Processing Team </br>"
+  company_url = "https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html"
+  location = "Hamburg, Germany"
+  date_start = "2020-04-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
+  title = "PhD student"
+  company = "INRIA Nancy - Grand Est <br> Multispeech Team </br>"
+  company_url = "https://team.inria.fr/multispeech/"
+  location = "Nancy, France"
+  date_start = "2017-03-08"
+  date_end = "2020-03-31"
+  description = """Worked on joint reduction of acoustic echo, reverberation and noise for hands-free telecommunications."""
+
+[[experience]]
+  title = "Audio engineer"
+  company = "Invoxia"
+  company_url = "https://www.invoxia.com/"
+  location = "Issy-les-Moulineaux, France"
+  date_start = "2017-03-08"
+  date_end = "2020-03-31"
+  description = """Worked in the company as part of my PhD."""
+
+[[experience]]
+  title = "Research engineer"
+  company = "RWTH Aachen University i6"
+  company_url = "https://www-i6.informatik.rwth-aachen.de/"
+  location = "Aachen, Germany"
+  date_start = "2016-07-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Worked on language modeling for speech recognition.""" 
 
 +++
