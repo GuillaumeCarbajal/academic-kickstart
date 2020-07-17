@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Hamburg, Germany"
   date_start = "2020-04-15"
   date_end = ""
-  description = """
-  """
+  description = """Working on audio-visual signal processing."""
 
 [[experience]]
   title = "PhD student"

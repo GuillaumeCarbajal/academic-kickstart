@@ -18,7 +18,7 @@ organizations:
   url: "https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am postdoctoral researcher at [Universität Hamburg](https://www.uni-hamburg.de/). I am part of the [Signal Processing Team](https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html) supervised by [Pr. Dr.-Ing. Timo Gerkmann](https://www.inf.uni-hamburg.de/en/inst/ab/sp/people/gerkmann.html). My research interests include speech enhancement, audio-visual signal processing and machine learning. <br> I received a Ph.D. in Computer Science from [INRIA](https://www.inria.fr/fr/centre-inria-nancy-grand-est) and [Université de Lorraine](http://www.univ-lorraine.fr/) (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise. </br>
+bio: I am postdoctoral researcher at [Universität Hamburg](https://www.uni-hamburg.de/). I am part of the [Signal Processing Team](https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html) supervised by [Pr. Dr.-Ing. Timo Gerkmann](https://www.inf.uni-hamburg.de/en/inst/ab/sp/people/gerkmann.html). My research interests include speech enhancement, audio-visual signal processing and machine learning. <br> I received the Ph.D. degree in Computer Science from [INRIA](https://www.inria.fr/fr/centre-inria-nancy-grand-est) and [Université de Lorraine](http://www.univ-lorraine.fr/) (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise. </br>
 
 interests:
 - Speech enhancement
@@ -56,6 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/GuillaumeCarbajal
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-4077-1742
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +76,4 @@ user_groups:
 ---
 I am postdoctoral researcher at [Universität Hamburg](https://www.uni-hamburg.de/). I am part of the [Signal Processing Team](https://www.inf.uni-hamburg.de/en/inst/ab/sp/home.html) supervised by [Pr. Dr.-Ing. Timo Gerkmann](https://www.inf.uni-hamburg.de/en/inst/ab/sp/people/gerkmann.html). My research interests include speech enhancement, audio-visual signal processing and machine learning.
 
-I received a Ph.D. in Computer Science from [INRIA](https://www.inria.fr/fr/centre-inria-nancy-grand-est) and [Université de Lorraine](http://www.univ-lorraine.fr/) (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise.
+I received the Ph.D. degree in Computer Science from [INRIA](https://www.inria.fr/fr/centre-inria-nancy-grand-est) and [Université de Lorraine](http://www.univ-lorraine.fr/) (Nancy, France), where I worked under the supervision of [Dr. Emmanuel Vincent](https://members.loria.fr/EVincent/) and [Dr. Romain Serizel](https://members.loria.fr/RSerizel/) on speech enhancement for hands-free telecommunication devices. The PhD thesis covers joint reduction of acoustic echo, reverberation and noise.
